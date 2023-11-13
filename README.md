@@ -11,3 +11,8 @@ DRAMA ( 0.15 de desconto) SUSPENSE ( 0.10 de desconto) e ROMANCE ( 0.05 de desco
 o preço será multiplicado ao total calculado ex: preco * quantidade.
 
 Os tipos de cada caderno são : M2, M5 E M10 com os fatores 2,5 e 10 respectivamente o fator é aditivo, calculado: preco * quantidade
+![image](https://github.com/oficialthyago/Projeto-Pratico-com-OO-em-Java/assets/58978196/87806dc1-223a-4ed1-b7e6-a5dc4a02481c)
+
+![image](https://github.com/oficialthyago/Projeto-Pratico-com-OO-em-Java/assets/58978196/e5614436-20e1-47a3-b557-e2ac42936780)
+
+![image](https://github.com/oficialthyago/Projeto-Pratico-com-OO-em-Java/assets/58978196/c8702ef2-6bfa-4352-982e-1abb31a4a7ba)
